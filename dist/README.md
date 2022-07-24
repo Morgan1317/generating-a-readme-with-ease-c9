@@ -1,12 +1,12 @@
 
-  # x
+  # a
 
   
   
 
   ## Description
 
-  x
+  g
   
   ## Table of Contents
   
@@ -28,12 +28,15 @@
   To install necessary dependencies, run the following command:
 
   ~~~
-  npm i
+  d
   ~~~
 
   ## Usage
 
   
+
+  
+
 
   ## Contributing
 
@@ -49,4 +52,4 @@
 
   ## Questions
 
-  If you have any questions about the repo, please open an issue or contact me directly at x. You can learn more about my work at x.
+  If you have any questions about the repo, please open an issue or contact me directly at ds. Find me on github to learn more about my work d 😁.
