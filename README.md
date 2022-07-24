@@ -29,6 +29,8 @@
 
   ## Usage
   In order to use this make sure to install inquierer 8.2.4, and have node installed.
+  
+  You will want to clone this repo to a local folder on your computer. 
 
   Click <a href="https://watch.screencastify.com/v/MMGlF59zakC2taNiVfpF" target="_blank">here</a> if you are interested to see a short video demonstrating how this works. 
 
