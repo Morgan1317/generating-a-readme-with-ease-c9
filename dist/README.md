@@ -1,12 +1,12 @@
 
-  # jd
+  # Sample readme
 
   
   
 
   ## Description
 
-  jd
+  This is a sample readme created using this repo
   
   ## Table of Contents
   
@@ -33,14 +33,14 @@
 
   ## Usage
 
-  
+  This is a sample
 
   
 
 
   ## Contributing
 
-  
+  This is a sample
 
   ## Tests
 
@@ -52,4 +52,4 @@
 
   ## Questions
 
-  If you have any questions about the repo, please open an issue or contact me directly at jd. Find me on <a href="https://github.com/jdkjd" target="_blank">github</a> to learn more about my work  😁.
+  If you have any questions about the repo, please open an issue or contact me directly at email. Find me on <a href="https://github.com/morgan1317" target="_blank">github</a> to learn more about my work  😁.
