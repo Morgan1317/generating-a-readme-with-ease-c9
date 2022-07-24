@@ -1,4 +1,3 @@
-// TODO: Create a function that returns a license badge based on which license is passed in and returns the license link and badge
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   let licenseText = license.toString()
@@ -21,29 +20,18 @@ function renderLicenseBadge(license) {
 }
 
 
-// TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   let licenseText = license.toString()
-  if(licenseText == 'MIT'){
-    return `<a href="https://choosealicense.com/licenses/mit/" target="_blank">site</a>`
-  }
-  else if(licenseText == 'APACHE 2.0'){
-    return `<a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank">site</a>`
-  }
-  else if (licenseText == 'GPL 3.0'){
-    return `<a href="https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)" target="_blank">site</a>`
-  }
-  else if (licenseText == 'BSD 3'){
-   return `<a href="https://opensource.org/licenses/BSD-3-Clause" target="_blank">site</a>`
-  }
-  else{
+  if(licenseText === '' || licenseText === 'None'){
     return '';
   }
- 
+  else{
+    return `[License](#license)`
+  }
 }
 
-// TODO: Create a function that returns the license section of README
+
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   let licenseText = license.toString()
@@ -52,8 +40,8 @@ function renderLicenseSection(license) {
   }
   else{
     return `## License
-This project is licensed under the ${license} license.
-For more information regarding this license feel free to checkout this ${renderLicenseLink(license)}`
+This project is licensed under the ${license} license.`
+
   }
   
 }
@@ -77,7 +65,7 @@ function generateMarkdown(data) {
   
   * [Usage](#usage)
 
-  * [License](#license)
+  * ${renderLicenseLink(data.license)}
 
   * [Contributing](#contributing)
 

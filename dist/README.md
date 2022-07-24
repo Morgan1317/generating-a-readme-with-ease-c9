@@ -1,12 +1,12 @@
 
-  # Sample readme
+  # This is a Test readme file
 
-  
+  ![badge](https://img.shields.io/badge/License-MIT-red)
   
 
   ## Description
 
-  This is a sample readme created using this repo
+  This is a test readme file using the application
   
   ## Table of Contents
   
@@ -33,14 +33,15 @@
 
   ## Usage
 
-  This is a sample
+  this is a test readme file
 
-  
+  ## License
+This project is licensed under the MIT license.
 
 
   ## Contributing
 
-  This is a sample
+  this is a test readme file. Please do not contribute
 
   ## Tests
 
@@ -52,4 +53,4 @@
 
   ## Questions
 
-  If you have any questions about the repo, please open an issue or contact me directly at email. Find me on <a href="https://github.com/morgan1317" target="_blank">github</a> to learn more about my work  😁.
+  If you have any questions about the repo, please open an issue or contact me directly at EmailAdress. Find me on <a href="https://github.com/Username" target="_blank">github</a> to learn more about my work  😁.
