@@ -32,7 +32,7 @@
   ## Usage
   In order to use this make sure to install inquierer 8.2.4, and have node installed.
 
-  Click <a href="https://watch.screencastify.com/v/MMGlF59zakC2taNiVfpF" target="_blank">here</a> if you are interested to see a short video on how this works. 
+  Click <a href="https://watch.screencastify.com/v/MMGlF59zakC2taNiVfpF" target="_blank">here</a> if you are interested to see a short video demonstrating how this works. 
 
   
   ## Contributing
@@ -41,4 +41,4 @@
 
   ## Questions
   
- If you have any questions about the repo, please open an issue or contact me directly at mpr. Find me on <a href="https://github.com/morgan1317" target="_blank">github</a> to learn more about my work  😁.
+ If you have any questions about the repo, please open an issue or contact me directly at morganholcomb2019@gmail.com. Find me on <a href="https://github.com/morgan1317" target="_blank">github</a> to learn more about my work  😁.
