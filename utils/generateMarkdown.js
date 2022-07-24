@@ -1,4 +1,4 @@
-// If there is no license, return an empty string
+// If there is no license, return an empty string, generate badge
 function renderLicenseBadge(license) {
   let licenseText = license.toString()
   if(licenseText == 'MIT'){
@@ -20,7 +20,7 @@ function renderLicenseBadge(license) {
 }
 
 
-// If there is no license, return an empty string
+// If there is no license, return an empty string, generate license link
 function renderLicenseLink(license) {
   let licenseText = license.toString()
   if(licenseText === '' || licenseText === 'None'){
@@ -32,7 +32,7 @@ function renderLicenseLink(license) {
 }
 
 
-// If there is no license, return an empty string
+// If there is no license, return an empty string, generate license body section
 function renderLicenseSection(license) {
   let licenseText = license.toString()
   if(licenseText === '' || licenseText === 'None'){
@@ -46,7 +46,7 @@ This project is licensed under the ${license} license.`
   
 }
 
-// TODO: Create a function to generate markdown for README
+// Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `
   # ${data.title}
