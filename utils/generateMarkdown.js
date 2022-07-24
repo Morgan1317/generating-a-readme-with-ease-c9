@@ -27,7 +27,7 @@ function renderLicenseLink(license) {
     return '';
   }
   else{
-    return `[License](#license)`
+    return `* [License](#license)`
   }
 }
 
@@ -65,7 +65,7 @@ function generateMarkdown(data) {
   
   * [Usage](#usage)
 
-  * ${renderLicenseLink(data.license)}
+  ${renderLicenseLink(data.license)}
 
   * [Contributing](#contributing)
 
