@@ -114,7 +114,7 @@ function generateMarkdown(data) {
 
   ## Questions
 
-  If you have any questions about the repo, please open an issue or contact me directly at ${data.email}. Find me on github, ${data.username}, to learn more about my work  😁.
+  If you have any questions about the repo, please open an issue or contact me directly at ${data.email}. Find me on <a href="https://github.com/${data.username}" target="_blank">github</a> to learn more about my work  😁.
 `;
 }
 

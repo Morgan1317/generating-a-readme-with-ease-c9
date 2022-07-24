@@ -1,12 +1,12 @@
 
-  # a
+  # jd
 
   
   
 
   ## Description
 
-  g
+  jd
   
   ## Table of Contents
   
@@ -28,7 +28,7 @@
   To install necessary dependencies, run the following command:
 
   ~~~
-  d
+  npm i
   ~~~
 
   ## Usage
@@ -52,4 +52,4 @@
 
   ## Questions
 
-  If you have any questions about the repo, please open an issue or contact me directly at ds. Find me on github to learn more about my work d 😁.
+  If you have any questions about the repo, please open an issue or contact me directly at jd. Find me on <a href="https://github.com/jdkjd" target="_blank">github</a> to learn more about my work  😁.
